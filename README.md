@@ -33,7 +33,7 @@ DoN4t1on
 2. Navigate into the project directory:
 
 ```bash
-  cd project-directory
+  cd web
 ```
 
 3. Install dependencies:
